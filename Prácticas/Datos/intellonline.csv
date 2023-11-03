@@ -1,0 +1,984 @@
+int,region,sex,race,age,income,education,postwt
+2,South,Female,White,37,$40-80k,No College,0.435434718
+1,Northeast,Female,White,43,>$80k,Grad School,0.435434718
+3,South,Female,White,50,>$80k,College Grad,1.006338014
+2,South,Female,African American,45,$40-80k,Grad School,4.071636288
+2,Northeast,Female,Asian American,22,>$80k,Some College,0.49140439
+2,Northeast,Male,Asian American,22,<$40k,Some College,0.664633048
+2,Northeast,Male,Asian American,34,<$40k,College Grad,0.664633048
+1,Northeast,Male,African American,33,<$40k,Grad School,0.664633048
+4,South,Female,White,53,<$40k,Some College,1.006338014
+3,Northeast,Male,White,30,<$40k,College Grad,0.505142453
+5,South,Female,White,21,>$80k,No College,0.435434718
+2,South,Female,White,58,$40-80k,College Grad,1.006338014
+3,South,Female,White,47,$40-80k,Some College,1.006338014
+1,Midwest,Male,White,24,<$40k,College Grad,0.505142453
+2,West,Female,White,64,>$80k,Some College,1.006338014
+1,Midwest,Female,White,41,>$80k,Grad School,0.435434718
+1,West,Female,White,60,<$40k,Grad School,1.006338014
+5,Midwest,Male,White,37,$40-80k,Some College,0.505142453
+2,West,Female,Asian American,19,<$40k,Some College,0.49140439
+5,West,Female,White,58,<$40k,No College,1.006338014
+5,Midwest,Female,White,39,>$80k,College Grad,0.435434718
+2,West,Female,White,45,$40-80k,College Grad,1.006338014
+2,Northeast,Male,White,30,$40-80k,College Grad,0.505142453
+2,Northeast,Female,White,35,$40-80k,Grad School,0.435434718
+3,West,Female,White,31,>$80k,College Grad,0.435434718
+2,South,Female,African American,24,$40-80k,Some College,0.49140439
+1,South,Male,Hispanic American,30,>$80k,Grad School,0.664633048
+1,South,Female,White,27,<$40k,No College,0.435434718
+5,South,Female,African American,39,$40-80k,No College,0.49140439
+3,Midwest,Male,White,43,<$40k,Some College,0.505142453
+1,Northeast,Male,Asian American,22,$40-80k,College Grad,0.664633048
+2,West,Female,White,29,<$40k,College Grad,0.435434718
+2,West,Female,White,40,>$80k,College Grad,0.435434718
+3,Northeast,Female,White,23,<$40k,Grad School,0.435434718
+1,West,Female,White,37,$40-80k,Some College,0.435434718
+4,South,Female,African American,52,<$40k,College Grad,4.071636288
+5,West,Female,White,53,<$40k,Some College,1.006338014
+3,West,Male,Hispanic American,18,$40-80k,No College,0.664633048
+2,Northeast,Male,White,19,>$80k,Some College,0.505142453
+5,West,Female,White,21,<$40k,No College,0.435434718
+3,West,Male,White,24,$40-80k,College Grad,0.505142453
+2,West,Male,White,49,<$40k,Some College,2.036606082
+2,South,Female,White,42,$40-80k,Grad School,0.435434718
+2,West,Female,White,38,<$40k,No College,0.435434718
+2,West,Female,White,21,$40-80k,Some College,0.435434718
+3,West,Male,Asian American,38,$40-80k,Some College,0.664633048
+2,Northeast,Male,White,51,$40-80k,Some College,2.036606082
+2,West,Female,White,22,<$40k,College Grad,0.435434718
+2,Midwest,Female,White,41,$40-80k,Some College,0.435434718
+1,Northeast,Female,African American,31,>$80k,Grad School,0.49140439
+3,Northeast,Female,White,51,$40-80k,No College,1.006338014
+5,Northeast,Male,White,20,$40-80k,Some College,0.505142453
+2,West,Male,Hispanic American,48,<$40k,Some College,6.729409613
+1,South,Female,Another origin,43,$40-80k,Some College,0.49140439
+3,West,Male,White,29,<$40k,Grad School,0.505142453
+2,Midwest,Male,White,20,$40-80k,Some College,0.505142453
+5,Midwest,Female,White,31,<$40k,Some College,0.435434718
+2,Northeast,Male,White,23,<$40k,College Grad,0.505142453
+3,South,Male,Hispanic American,19,<$40k,Some College,0.664633048
+2,Northeast,Male,White,18,<$40k,Some College,0.505142453
+2,South,Male,White,38,$40-80k,College Grad,0.505142453
+1,West,Male,White,35,$40-80k,College Grad,0.505142453
+1,West,Male,White,44,<$40k,Some College,2.036606082
+1,Northeast,Male,White,28,<$40k,Some College,0.505142453
+1,Northeast,Female,White,30,<$40k,College Grad,0.435434718
+2,West,Female,Hispanic American,22,<$40k,Some College,0.49140439
+1,South,Female,White,31,<$40k,Grad School,0.435434718
+1,Midwest,Male,White,22,$40-80k,Some College,0.505142453
+2,South,Female,White,54,$40-80k,Some College,1.006338014
+3,Midwest,Female,White,31,<$40k,Some College,0.435434718
+2,Northeast,Female,White,50,>$80k,Grad School,1.006338014
+1,West,Female,White,44,<$40k,Some College,1.006338014
+1,Midwest,Female,African American,37,<$40k,Some College,0.49140439
+1,South,Male,White,34,$40-80k,College Grad,0.505142453
+2,South,Female,White,44,>$80k,Grad School,1.006338014
+5,Midwest,Female,Asian American,30,$40-80k,Grad School,0.49140439
+3,West,Female,White,24,<$40k,Some College,0.435434718
+1,Midwest,Male,White,32,<$40k,Grad School,0.505142453
+2,South,Male,African American,23,>$80k,College Grad,0.664633048
+5,Northeast,Male,White,54,>$80k,Some College,2.036606082
+1,South,Female,White,18,<$40k,Some College,0.435434718
+2,Midwest,Female,White,29,<$40k,College Grad,0.435434718
+2,West,Female,White,40,$40-80k,College Grad,0.435434718
+5,South,Male,White,25,>$80k,Some College,0.505142453
+4,South,Female,White,33,<$40k,Some College,0.435434718
+2,West,Male,Hispanic American,39,<$40k,Some College,0.664633048
+3,Northeast,Male,White,40,<$40k,Some College,0.505142453
+2,Midwest,Male,African American,41,$40-80k,Some College,0.664633048
+2,Midwest,Female,White,28,<$40k,Some College,0.435434718
+1,South,Female,White,33,$40-80k,College Grad,0.435434718
+3,Midwest,Female,White,22,<$40k,Some College,0.435434718
+5,Midwest,Male,White,19,>$80k,Some College,0.505142453
+2,South,Female,White,27,$40-80k,College Grad,0.435434718
+5,South,Female,White,37,<$40k,College Grad,0.435434718
+2,South,Male,Asian American,40,<$40k,Some College,0.664633048
+2,South,Female,White,30,<$40k,College Grad,0.435434718
+1,West,Male,White,36,$40-80k,Grad School,0.505142453
+2,South,Female,White,58,$40-80k,Some College,1.006338014
+2,Midwest,Female,White,24,<$40k,College Grad,0.435434718
+3,South,Female,African American,60,<$40k,Grad School,4.071636288
+5,South,Male,White,27,<$40k,Some College,0.505142453
+2,Northeast,Female,White,20,<$40k,No College,0.435434718
+2,West,Female,White,36,<$40k,Some College,0.435434718
+3,Midwest,Male,White,23,$40-80k,College Grad,0.505142453
+5,West,Female,White,27,$40-80k,Grad School,0.435434718
+3,South,Male,White,62,<$40k,Grad School,2.036606082
+2,Midwest,Female,White,28,>$80k,Grad School,0.435434718
+3,Northeast,Female,White,38,$40-80k,Some College,0.435434718
+1,Northeast,Female,White,30,<$40k,Grad School,0.435434718
+1,Northeast,Male,White,20,>$80k,Some College,0.505142453
+2,South,Male,White,46,>$80k,Some College,2.036606082
+2,Midwest,Male,White,24,<$40k,College Grad,0.505142453
+2,South,Male,African American,33,$40-80k,College Grad,0.664633048
+3,South,Female,White,24,<$40k,College Grad,0.435434718
+2,West,Male,African American,28,<$40k,Some College,0.664633048
+2,South,Female,Hispanic American,33,<$40k,Some College,0.49140439
+5,Midwest,Female,White,37,<$40k,No College,0.435434718
+2,West,Female,White,31,>$80k,Some College,0.435434718
+3,West,Male,White,20,<$40k,Some College,0.505142453
+1,Northeast,Female,White,24,$40-80k,Some College,0.435434718
+3,Northeast,Female,White,56,$40-80k,Grad School,1.006338014
+5,Northeast,Female,White,27,<$40k,Some College,0.435434718
+2,Northeast,Female,White,25,$40-80k,Grad School,0.435434718
+2,West,Female,White,33,$40-80k,Some College,0.435434718
+2,West,Male,White,26,$40-80k,No College,0.505142453
+2,South,Female,African American,24,<$40k,Some College,0.49140439
+2,South,Male,White,42,<$40k,Some College,0.505142453
+2,West,Male,Asian American,32,<$40k,College Grad,0.664633048
+3,Midwest,Female,White,81,$40-80k,Some College,1.006338014
+3,Midwest,Male,White,68,<$40k,Some College,2.036606082
+5,South,Female,Hispanic American,23,<$40k,Some College,0.49140439
+5,South,Female,White,57,$40-80k,College Grad,1.006338014
+1,West,Male,White,23,<$40k,College Grad,0.505142453
+5,South,Male,White,44,$40-80k,Some College,2.036606082
+1,South,Female,Another origin,23,<$40k,No College,0.49140439
+2,West,Male,White,32,<$40k,Some College,0.505142453
+2,Northeast,Female,Asian American,33,<$40k,Grad School,0.49140439
+5,West,Female,Hispanic American,22,<$40k,No College,0.49140439
+3,West,Female,White,46,$40-80k,College Grad,1.006338014
+1,South,Female,White,26,<$40k,Grad School,0.435434718
+2,Midwest,Male,White,26,$40-80k,Some College,0.505142453
+3,West,Female,White,49,<$40k,No College,1.006338014
+2,South,Male,White,19,>$80k,Some College,0.505142453
+2,West,Male,White,33,>$80k,College Grad,0.505142453
+1,South,Female,White,29,<$40k,Some College,0.435434718
+2,Midwest,Female,White,26,<$40k,Some College,0.435434718
+3,Midwest,Female,White,43,>$80k,No College,0.435434718
+3,West,Female,White,54,$40-80k,Some College,1.006338014
+2,South,Female,Hispanic American,41,$40-80k,Grad School,0.49140439
+3,West,Female,White,39,<$40k,College Grad,0.435434718
+2,South,Male,White,55,<$40k,Some College,2.036606082
+1,West,Female,African American,31,>$80k,College Grad,0.49140439
+1,South,Male,White,28,$40-80k,Some College,0.505142453
+2,Northeast,Male,White,22,<$40k,Some College,0.505142453
+5,South,Female,White,22,$40-80k,No College,0.435434718
+5,South,Female,Asian American,19,>$80k,Some College,0.49140439
+2,South,Female,Another origin,41,<$40k,College Grad,0.49140439
+2,West,Female,Asian American,21,>$80k,Some College,0.49140439
+3,South,Female,African American,33,>$80k,College Grad,0.49140439
+2,West,Male,Asian American,19,<$40k,Some College,0.664633048
+1,Northeast,Female,White,20,>$80k,Some College,0.435434718
+2,South,Female,African American,52,<$40k,No College,4.071636288
+3,West,Female,White,24,<$40k,Some College,0.435434718
+3,South,Female,White,54,<$40k,College Grad,1.006338014
+2,Northeast,Female,White,36,>$80k,Grad School,0.435434718
+2,Midwest,Male,White,37,>$80k,Grad School,0.505142453
+2,South,Female,White,32,>$80k,Some College,0.435434718
+2,Northeast,Female,White,28,<$40k,Grad School,0.435434718
+5,South,Male,White,24,$40-80k,College Grad,0.505142453
+2,West,Female,Asian American,28,>$80k,Grad School,0.49140439
+2,West,Male,Hispanic American,20,>$80k,Some College,0.664633048
+1,West,Female,White,26,<$40k,No College,0.435434718
+3,West,Female,White,45,<$40k,Some College,1.006338014
+3,Midwest,Female,African American,39,<$40k,Grad School,0.49140439
+5,Midwest,Female,African American,39,<$40k,No College,0.49140439
+1,South,Male,White,21,<$40k,Some College,0.505142453
+1,West,Female,Asian American,19,<$40k,Some College,0.49140439
+1,Midwest,Female,White,19,<$40k,Some College,0.435434718
+2,South,Female,White,47,$40-80k,Some College,1.006338014
+2,Midwest,Female,African American,19,<$40k,No College,0.49140439
+1,Northeast,Male,Asian American,23,<$40k,Some College,0.664633048
+1,South,Female,White,48,<$40k,No College,1.006338014
+3,West,Female,White,55,<$40k,Some College,1.006338014
+5,Midwest,Male,African American,22,<$40k,No College,0.664633048
+1,South,Female,White,24,$40-80k,College Grad,0.435434718
+1,Northeast,Female,Asian American,24,$40-80k,Some College,0.49140439
+1,West,Male,White,34,>$80k,Some College,0.505142453
+2,Midwest,Female,White,33,<$40k,College Grad,0.435434718
+5,Northeast,Male,White,48,$40-80k,College Grad,2.036606082
+2,West,Female,Another origin,61,$40-80k,Some College,4.071636288
+1,Midwest,Female,White,49,>$80k,College Grad,1.006338014
+2,Midwest,Female,Asian American,27,$40-80k,Grad School,0.49140439
+5,Midwest,Female,White,47,<$40k,Some College,1.006338014
+2,Northeast,Female,White,31,$40-80k,Grad School,0.435434718
+5,South,Male,White,25,<$40k,College Grad,0.505142453
+3,Northeast,Female,White,44,<$40k,Some College,1.006338014
+1,South,Female,White,20,>$80k,Some College,0.435434718
+2,South,Female,White,53,<$40k,Some College,1.006338014
+1,South,Male,White,53,>$80k,Grad School,2.036606082
+2,South,Male,White,23,<$40k,Grad School,0.505142453
+1,Northeast,Female,White,57,$40-80k,College Grad,1.006338014
+5,Northeast,Female,White,50,$40-80k,Grad School,1.006338014
+2,Midwest,Female,White,42,<$40k,College Grad,0.435434718
+1,Northeast,Female,African American,21,<$40k,College Grad,0.49140439
+1,South,Female,White,23,$40-80k,Grad School,0.435434718
+1,West,Male,White,43,>$80k,Grad School,0.505142453
+1,Northeast,Male,White,31,>$80k,College Grad,0.505142453
+1,South,Male,African American,32,$40-80k,Some College,0.664633048
+2,South,Female,Asian American,28,$40-80k,Grad School,0.49140439
+5,Midwest,Female,African American,53,$40-80k,College Grad,4.071636288
+3,South,Female,White,23,<$40k,Some College,0.435434718
+2,West,Female,White,43,>$80k,College Grad,0.435434718
+2,Northeast,Female,White,52,>$80k,Grad School,1.006338014
+5,Midwest,Female,White,15,>$80k,No College,0.435434718
+3,South,Female,White,41,$40-80k,Some College,0.435434718
+2,West,Female,White,22,>$80k,Grad School,0.435434718
+5,Midwest,Male,White,31,<$40k,Some College,0.505142453
+2,South,Male,Hispanic American,22,<$40k,Some College,0.664633048
+5,South,Female,White,42,>$80k,Some College,0.435434718
+3,Northeast,Male,White,31,$40-80k,College Grad,0.505142453
+2,Midwest,Female,White,20,>$80k,Some College,0.435434718
+3,Midwest,Female,White,54,>$80k,Grad School,1.006338014
+5,South,Male,White,49,<$40k,Some College,2.036606082
+5,Midwest,Female,White,37,>$80k,Grad School,0.435434718
+2,Northeast,Female,Hispanic American,33,<$40k,Grad School,0.49140439
+5,Midwest,Female,White,30,<$40k,Some College,0.435434718
+1,Midwest,Female,White,27,<$40k,College Grad,0.435434718
+2,Midwest,Female,White,70,<$40k,No College,1.006338014
+3,Northeast,Female,Asian American,49,$40-80k,College Grad,4.071636288
+1,Northeast,Male,White,46,>$80k,Grad School,2.036606082
+3,Midwest,Female,White,57,<$40k,Some College,1.006338014
+2,South,Female,White,20,<$40k,Some College,0.435434718
+3,South,Male,White,68,$40-80k,Grad School,2.036606082
+2,South,Female,White,44,<$40k,College Grad,1.006338014
+5,West,Male,White,36,<$40k,College Grad,0.505142453
+1,South,Female,White,18,>$80k,Some College,0.435434718
+2,Northeast,Male,White,39,<$40k,Some College,0.505142453
+2,West,Female,White,51,<$40k,Grad School,1.006338014
+1,Midwest,Male,White,24,$40-80k,Grad School,0.505142453
+2,South,Male,White,38,$40-80k,College Grad,0.505142453
+2,South,Male,White,26,<$40k,No College,0.505142453
+1,Northeast,Male,White,64,>$80k,Grad School,2.036606082
+2,Midwest,Female,White,23,>$80k,Some College,0.435434718
+5,Northeast,Female,White,40,<$40k,Some College,0.435434718
+2,South,Female,Asian American,18,<$40k,Some College,0.49140439
+2,Northeast,Female,Hispanic American,31,$40-80k,Grad School,0.49140439
+2,West,Female,White,29,<$40k,Some College,0.435434718
+3,South,Female,White,50,<$40k,College Grad,1.006338014
+2,South,Female,White,53,<$40k,Some College,1.006338014
+2,Northeast,Female,White,26,>$80k,Grad School,0.435434718
+2,Northeast,Female,White,49,>$80k,College Grad,1.006338014
+2,West,Male,White,30,$40-80k,College Grad,0.505142453
+5,South,Male,White,43,>$80k,College Grad,0.505142453
+3,Northeast,Female,White,51,$40-80k,No College,1.006338014
+3,Midwest,Female,White,47,<$40k,Some College,1.006338014
+2,Midwest,Male,White,68,<$40k,Some College,2.036606082
+3,Midwest,Female,White,29,$40-80k,College Grad,0.435434718
+2,Northeast,Male,White,24,<$40k,College Grad,0.505142453
+5,South,Female,White,47,<$40k,Some College,1.006338014
+1,Midwest,Male,White,20,>$80k,Some College,0.505142453
+2,South,Female,White,21,<$40k,Some College,0.435434718
+2,Northeast,Female,White,22,<$40k,Some College,0.435434718
+1,Midwest,Male,White,45,<$40k,Some College,2.036606082
+2,South,Male,White,21,<$40k,Some College,0.505142453
+2,Northeast,Male,White,38,<$40k,Some College,0.505142453
+3,West,Female,White,45,$40-80k,Grad School,1.006338014
+2,West,Male,White,35,>$80k,College Grad,0.505142453
+3,South,Female,White,23,<$40k,College Grad,0.435434718
+1,West,Male,White,33,$40-80k,Some College,0.505142453
+5,Midwest,Male,White,25,<$40k,Grad School,0.505142453
+2,West,Male,White,28,$40-80k,Some College,0.505142453
+1,Northeast,Male,White,28,<$40k,Some College,0.505142453
+5,Midwest,Female,White,42,>$80k,College Grad,0.435434718
+2,South,Female,White,70,<$40k,Some College,1.006338014
+2,South,Male,White,31,$40-80k,College Grad,0.505142453
+2,South,Male,White,21,<$40k,Some College,0.505142453
+2,South,Female,White,25,$40-80k,College Grad,0.435434718
+2,West,Male,White,36,$40-80k,Grad School,0.505142453
+3,South,Female,African American,35,<$40k,Some College,0.49140439
+2,Midwest,Male,African American,52,$40-80k,Grad School,6.729409613
+3,Northeast,Male,White,64,$40-80k,Some College,2.036606082
+1,South,Male,African American,19,<$40k,No College,0.664633048
+2,Midwest,Male,White,38,<$40k,No College,0.505142453
+1,South,Male,Hispanic American,21,>$80k,Some College,0.664633048
+2,South,Female,White,36,$40-80k,College Grad,0.435434718
+3,South,Female,White,26,<$40k,Grad School,0.435434718
+1,Northeast,Male,White,27,$40-80k,Grad School,0.505142453
+2,Midwest,Female,White,26,<$40k,College Grad,0.435434718
+2,South,Female,White,40,$40-80k,Some College,0.435434718
+5,Midwest,Female,African American,25,<$40k,Some College,0.49140439
+2,West,Female,Asian American,19,<$40k,Some College,0.49140439
+2,Midwest,Male,White,31,$40-80k,Grad School,0.505142453
+4,South,Female,White,18,<$40k,No College,0.435434718
+4,South,Male,White,20,<$40k,Some College,0.505142453
+2,Midwest,Female,African American,18,$40-80k,No College,0.49140439
+2,West,Female,White,48,<$40k,Grad School,1.006338014
+2,Midwest,Female,White,52,<$40k,Some College,1.006338014
+1,Northeast,Male,White,23,>$80k,College Grad,0.505142453
+2,South,Female,White,46,>$80k,Grad School,1.006338014
+1,Northeast,Male,White,29,<$40k,Grad School,0.505142453
+2,West,Female,White,27,>$80k,College Grad,0.435434718
+5,Midwest,Female,Asian American,51,>$80k,Grad School,4.071636288
+2,Midwest,Female,White,33,$40-80k,Some College,0.435434718
+3,South,Male,White,51,<$40k,Some College,2.036606082
+2,Midwest,Male,White,22,<$40k,Some College,0.505142453
+2,South,Male,White,21,$40-80k,Some College,0.505142453
+1,West,Male,White,23,<$40k,College Grad,0.505142453
+2,Northeast,Male,White,22,<$40k,College Grad,0.505142453
+4,South,Male,Asian American,45,$40-80k,College Grad,6.729409613
+3,West,Female,White,45,$40-80k,Some College,1.006338014
+2,Midwest,Female,White,26,$40-80k,Grad School,0.435434718
+2,South,Female,White,60,>$80k,College Grad,1.006338014
+1,South,Female,White,41,$40-80k,Grad School,0.435434718
+2,Northeast,Female,White,21,$40-80k,College Grad,0.435434718
+3,West,Female,White,34,<$40k,Some College,0.435434718
+5,South,Female,White,29,<$40k,Some College,0.435434718
+5,South,Female,White,27,$40-80k,Some College,0.435434718
+2,Northeast,Female,Hispanic American,23,$40-80k,College Grad,0.49140439
+5,South,Male,White,39,$40-80k,Some College,0.505142453
+2,South,Female,White,28,$40-80k,Grad School,0.435434718
+2,West,Female,Asian American,26,$40-80k,Some College,0.49140439
+2,West,Male,White,24,<$40k,Some College,0.505142453
+1,West,Male,White,28,$40-80k,Some College,0.505142453
+2,South,Female,Another origin,32,<$40k,Some College,0.49140439
+3,Midwest,Male,White,55,<$40k,Some College,2.036606082
+2,West,Female,White,35,<$40k,Some College,0.435434718
+2,West,Male,White,27,<$40k,Some College,0.505142453
+1,South,Male,Hispanic American,17,>$80k,Some College,0.664633048
+2,Northeast,Female,White,20,<$40k,Some College,0.435434718
+1,South,Female,White,42,$40-80k,College Grad,0.435434718
+2,Midwest,Male,Hispanic American,29,<$40k,Some College,0.664633048
+5,Midwest,Female,White,38,<$40k,Some College,0.435434718
+3,Midwest,Male,White,35,<$40k,College Grad,0.505142453
+1,Midwest,Male,White,47,$40-80k,No College,2.036606082
+3,Midwest,Female,White,30,$40-80k,Some College,0.435434718
+2,South,Male,White,22,>$80k,Some College,0.505142453
+2,Northeast,Male,Asian American,22,$40-80k,College Grad,0.664633048
+2,West,Male,White,39,>$80k,College Grad,0.505142453
+2,Midwest,Male,White,37,<$40k,No College,0.505142453
+5,Northeast,Female,White,18,<$40k,Some College,0.435434718
+2,Northeast,Female,White,27,$40-80k,College Grad,0.435434718
+1,West,Male,Hispanic American,19,$40-80k,Some College,0.664633048
+5,West,Male,White,40,<$40k,College Grad,0.505142453
+5,Midwest,Male,White,25,<$40k,College Grad,0.505142453
+2,South,Female,African American,18,>$80k,Some College,0.49140439
+1,South,Female,White,27,<$40k,College Grad,0.435434718
+1,Northeast,Male,White,27,$40-80k,College Grad,0.505142453
+3,Northeast,Female,Another origin,18,$40-80k,Some College,0.49140439
+1,Northeast,Male,White,27,<$40k,College Grad,0.505142453
+3,Midwest,Female,White,31,<$40k,Some College,0.435434718
+2,Midwest,Female,White,55,<$40k,Some College,1.006338014
+2,Northeast,Male,White,20,>$80k,Some College,0.505142453
+2,South,Male,Asian American,19,<$40k,Some College,0.664633048
+2,South,Male,African American,20,>$80k,Some College,0.664633048
+2,Midwest,Female,White,26,$40-80k,Some College,0.435434718
+3,South,Female,White,52,<$40k,Some College,1.006338014
+1,West,Female,African American,54,<$40k,No College,4.071636288
+2,South,Female,White,55,>$80k,Grad School,1.006338014
+4,South,Female,White,19,<$40k,College Grad,0.435434718
+1,Northeast,Male,White,51,<$40k,College Grad,2.036606082
+2,Midwest,Male,White,48,>$80k,College Grad,2.036606082
+2,Midwest,Male,White,31,<$40k,Grad School,0.505142453
+1,Midwest,Male,Asian American,20,<$40k,No College,0.664633048
+2,South,Female,Hispanic American,27,$40-80k,College Grad,0.49140439
+1,Midwest,Male,Asian American,22,>$80k,Grad School,0.664633048
+5,Midwest,Female,White,61,<$40k,Some College,1.006338014
+2,West,Male,White,21,$40-80k,Some College,0.505142453
+2,Midwest,Male,White,19,<$40k,No College,0.505142453
+3,South,Female,White,48,<$40k,Some College,1.006338014
+1,Northeast,Male,White,25,<$40k,Some College,0.505142453
+2,South,Female,White,32,$40-80k,No College,0.435434718
+1,South,Male,White,27,$40-80k,Some College,0.505142453
+4,Northeast,Female,White,53,$40-80k,Some College,1.006338014
+2,West,Female,Asian American,18,$40-80k,No College,0.49140439
+1,Northeast,Female,White,36,<$40k,Grad School,0.435434718
+2,South,Female,White,23,<$40k,College Grad,0.435434718
+2,Northeast,Male,White,27,<$40k,No College,0.505142453
+2,West,Male,White,33,<$40k,Some College,0.505142453
+3,South,Female,White,38,$40-80k,College Grad,0.435434718
+2,South,Female,White,34,$40-80k,Some College,0.435434718
+2,Northeast,Male,White,20,<$40k,Some College,0.505142453
+3,South,Female,White,43,>$80k,Some College,0.435434718
+1,South,Female,African American,22,$40-80k,College Grad,0.49140439
+3,Northeast,Female,African American,26,<$40k,No College,0.49140439
+2,Midwest,Male,White,22,<$40k,Some College,0.505142453
+2,Midwest,Male,White,37,<$40k,Some College,0.505142453
+2,Northeast,Male,White,22,<$40k,College Grad,0.505142453
+2,South,Female,Another origin,20,>$80k,Some College,0.49140439
+2,Northeast,Female,White,48,>$80k,Grad School,1.006338014
+3,South,Male,White,23,$40-80k,College Grad,0.505142453
+2,West,Female,White,41,$40-80k,College Grad,0.435434718
+5,Midwest,Female,White,42,<$40k,Some College,0.435434718
+5,South,Female,White,29,$40-80k,College Grad,0.435434718
+2,South,Female,White,58,$40-80k,College Grad,1.006338014
+2,South,Male,White,19,<$40k,Some College,0.505142453
+2,South,Male,White,28,<$40k,Some College,0.505142453
+1,West,Male,Asian American,28,$40-80k,Grad School,0.664633048
+2,South,Female,African American,30,$40-80k,Grad School,0.49140439
+2,South,Female,White,39,<$40k,College Grad,0.435434718
+1,South,Male,Another origin,18,<$40k,Some College,0.664633048
+5,West,Male,Asian American,25,<$40k,Some College,0.664633048
+2,South,Female,White,51,<$40k,Some College,1.006338014
+1,Midwest,Male,White,32,>$80k,Grad School,0.505142453
+2,South,Female,White,58,>$80k,Some College,1.006338014
+1,Northeast,Female,Asian American,16,$40-80k,Some College,0.49140439
+2,West,Female,White,22,<$40k,No College,0.435434718
+2,Northeast,Female,African American,22,<$40k,Some College,0.49140439
+5,West,Female,Another origin,28,<$40k,Some College,0.49140439
+2,Midwest,Male,White,55,<$40k,Some College,2.036606082
+5,Northeast,Male,African American,19,<$40k,Some College,0.664633048
+3,Northeast,Male,White,23,<$40k,No College,0.505142453
+1,West,Female,White,69,<$40k,Grad School,1.006338014
+5,Midwest,Female,Another origin,23,$40-80k,Grad School,0.49140439
+5,South,Female,White,29,<$40k,No College,0.435434718
+2,South,Female,White,23,<$40k,Some College,0.435434718
+5,Northeast,Male,Hispanic American,19,<$40k,Some College,0.664633048
+2,West,Male,Asian American,30,$40-80k,College Grad,0.664633048
+5,West,Male,Asian American,40,<$40k,College Grad,0.664633048
+1,Midwest,Male,White,50,$40-80k,College Grad,2.036606082
+5,South,Female,White,49,$40-80k,Grad School,1.006338014
+5,West,Female,White,25,<$40k,No College,0.435434718
+2,Midwest,Female,Hispanic American,41,<$40k,Some College,0.49140439
+2,West,Female,White,24,<$40k,Some College,0.435434718
+2,West,Male,White,41,$40-80k,Grad School,0.505142453
+5,South,Female,Another origin,38,$40-80k,College Grad,0.49140439
+5,Northeast,Male,Asian American,39,$40-80k,College Grad,0.664633048
+2,South,Male,White,63,>$80k,Grad School,2.036606082
+1,West,Male,Hispanic American,20,<$40k,Some College,0.664633048
+2,South,Male,Asian American,22,$40-80k,College Grad,0.664633048
+5,Midwest,Male,White,55,<$40k,No College,2.036606082
+2,West,Female,White,56,>$80k,Some College,1.006338014
+2,West,Male,White,23,<$40k,Some College,0.505142453
+1,Northeast,Male,African American,26,$40-80k,No College,0.664633048
+2,Northeast,Female,White,24,<$40k,College Grad,0.435434718
+5,Midwest,Female,White,26,$40-80k,Some College,0.435434718
+2,South,Male,White,18,$40-80k,No College,0.505142453
+5,South,Female,White,36,<$40k,College Grad,0.435434718
+2,Midwest,Female,White,79,>$80k,Grad School,1.006338014
+1,West,Male,Hispanic American,19,$40-80k,Some College,0.664633048
+1,West,Female,White,20,>$80k,Some College,0.435434718
+4,West,Male,Asian American,23,$40-80k,College Grad,0.664633048
+2,Northeast,Male,White,26,<$40k,College Grad,0.505142453
+2,Midwest,Female,White,26,$40-80k,College Grad,0.435434718
+2,Northeast,Female,African American,19,$40-80k,Some College,0.49140439
+3,South,Female,White,64,$40-80k,Grad School,1.006338014
+3,Midwest,Female,White,32,<$40k,Grad School,0.435434718
+5,West,Female,Asian American,18,$40-80k,Some College,0.49140439
+2,South,Male,White,27,<$40k,No College,0.505142453
+3,West,Female,White,23,>$80k,Some College,0.435434718
+2,West,Female,White,28,<$40k,College Grad,0.435434718
+2,South,Female,Another origin,43,>$80k,Some College,0.49140439
+2,West,Male,White,32,<$40k,Some College,0.505142453
+5,South,Female,White,21,>$80k,College Grad,0.435434718
+5,South,Male,White,42,<$40k,College Grad,0.505142453
+3,Midwest,Male,White,30,>$80k,Grad School,0.505142453
+2,West,Male,White,18,$40-80k,No College,0.505142453
+2,Northeast,Female,White,23,>$80k,College Grad,0.435434718
+2,Midwest,Female,White,19,<$40k,Some College,0.435434718
+2,West,Male,White,23,<$40k,Some College,0.505142453
+2,Midwest,Female,White,40,<$40k,Some College,0.435434718
+1,West,Female,Another origin,40,<$40k,Some College,0.49140439
+1,South,Female,White,28,<$40k,Grad School,0.435434718
+5,South,Female,White,24,<$40k,Some College,0.435434718
+5,South,Male,African American,21,$40-80k,Some College,0.664633048
+2,Midwest,Male,White,21,<$40k,Some College,0.505142453
+2,West,Female,White,27,$40-80k,Grad School,0.435434718
+2,South,Female,White,29,$40-80k,Some College,0.435434718
+2,South,Female,White,23,<$40k,Some College,0.435434718
+2,West,Male,White,26,<$40k,Some College,0.505142453
+2,Midwest,Male,White,24,<$40k,College Grad,0.505142453
+1,South,Female,African American,42,>$80k,College Grad,0.49140439
+1,South,Female,Hispanic American,43,$40-80k,Some College,0.49140439
+2,South,Female,White,30,<$40k,Grad School,0.435434718
+2,Midwest,Male,White,25,<$40k,College Grad,0.505142453
+1,West,Male,White,18,>$80k,Some College,0.505142453
+1,South,Female,White,33,$40-80k,Some College,0.435434718
+2,South,Female,White,40,<$40k,Grad School,0.435434718
+2,South,Female,White,45,<$40k,Some College,1.006338014
+5,South,Male,White,39,<$40k,College Grad,0.505142453
+2,Northeast,Female,White,99,>$80k,No College,1.006338014
+2,South,Female,White,23,$40-80k,Grad School,0.435434718
+3,Midwest,Male,White,22,<$40k,Some College,0.505142453
+2,West,Female,White,55,$40-80k,Grad School,1.006338014
+1,South,Female,White,31,<$40k,Some College,0.435434718
+2,South,Female,White,25,<$40k,No College,0.435434718
+5,Midwest,Female,Asian American,36,>$80k,Grad School,0.49140439
+3,Midwest,Female,White,27,<$40k,Some College,0.435434718
+2,West,Male,White,28,<$40k,Some College,0.505142453
+3,Northeast,Female,White,42,<$40k,No College,0.435434718
+5,South,Female,Another origin,26,<$40k,College Grad,0.49140439
+5,Midwest,Female,White,23,<$40k,College Grad,0.435434718
+1,Northeast,Female,White,54,<$40k,Some College,1.006338014
+2,South,Female,Asian American,27,<$40k,College Grad,0.49140439
+2,Northeast,Male,Asian American,32,$40-80k,Some College,0.664633048
+1,Midwest,Male,White,21,<$40k,College Grad,0.505142453
+2,South,Female,White,46,>$80k,Grad School,1.006338014
+2,South,Male,White,47,<$40k,Grad School,2.036606082
+2,Northeast,Male,White,40,$40-80k,College Grad,0.505142453
+2,South,Male,White,26,$40-80k,Grad School,0.505142453
+2,West,Male,White,49,>$80k,College Grad,2.036606082
+1,South,Male,White,54,>$80k,Grad School,2.036606082
+5,South,Male,White,20,$40-80k,No College,0.505142453
+1,Midwest,Male,Asian American,19,<$40k,Some College,0.664633048
+5,Midwest,Female,White,41,<$40k,Some College,0.435434718
+2,Midwest,Female,White,55,<$40k,Some College,1.006338014
+3,South,Female,African American,20,<$40k,Some College,0.49140439
+5,South,Female,White,51,$40-80k,Some College,1.006338014
+1,West,Female,White,26,<$40k,No College,0.435434718
+2,West,Male,Hispanic American,22,$40-80k,Some College,0.664633048
+5,Northeast,Male,White,29,$40-80k,College Grad,0.505142453
+4,South,Male,White,20,<$40k,Some College,0.505142453
+2,Midwest,Male,Asian American,23,<$40k,College Grad,0.664633048
+1,Midwest,Female,White,51,<$40k,Some College,1.006338014
+1,Northeast,Male,Asian American,22,$40-80k,College Grad,0.664633048
+1,Midwest,Female,White,40,<$40k,Grad School,0.435434718
+2,South,Female,African American,53,$40-80k,Grad School,4.071636288
+2,South,Female,White,31,<$40k,College Grad,0.435434718
+2,Northeast,Female,African American,26,$40-80k,Some College,0.49140439
+1,Northeast,Male,White,44,>$80k,Grad School,2.036606082
+2,South,Female,White,34,$40-80k,Some College,0.435434718
+3,South,Female,White,29,<$40k,Some College,0.435434718
+2,Northeast,Male,White,41,$40-80k,Grad School,0.505142453
+5,Northeast,Female,White,50,$40-80k,Some College,1.006338014
+2,South,Female,White,29,<$40k,Some College,0.435434718
+2,South,Female,White,19,>$80k,Some College,0.435434718
+2,Midwest,Female,Another origin,16,<$40k,No College,0.49140439
+5,West,Female,White,51,$40-80k,Some College,1.006338014
+3,Northeast,Male,White,32,$40-80k,College Grad,0.505142453
+2,South,Male,White,22,$40-80k,Grad School,0.505142453
+5,South,Female,Asian American,19,>$80k,Some College,0.49140439
+1,South,Male,White,45,<$40k,Some College,2.036606082
+1,Midwest,Female,White,31,<$40k,College Grad,0.435434718
+2,West,Male,White,36,$40-80k,Grad School,0.505142453
+2,South,Female,White,55,<$40k,Some College,1.006338014
+2,Midwest,Female,White,36,>$80k,Grad School,0.435434718
+2,South,Male,White,63,$40-80k,Some College,2.036606082
+1,South,Male,White,21,>$80k,Some College,0.505142453
+2,Northeast,Male,White,20,$40-80k,Some College,0.505142453
+1,South,Male,White,23,<$40k,Some College,0.505142453
+2,Northeast,Female,White,28,$40-80k,Grad School,0.435434718
+2,West,Female,Asian American,27,$40-80k,Some College,0.49140439
+3,South,Male,White,33,$40-80k,Grad School,0.505142453
+2,South,Male,White,51,<$40k,No College,2.036606082
+5,South,Male,White,68,<$40k,Some College,2.036606082
+2,Northeast,Female,White,55,>$80k,Grad School,1.006338014
+2,West,Female,White,56,<$40k,Some College,1.006338014
+2,Midwest,Female,White,37,$40-80k,Some College,0.435434718
+3,South,Female,White,20,<$40k,Some College,0.435434718
+2,Northeast,Female,White,39,$40-80k,Grad School,0.435434718
+3,Midwest,Male,White,43,<$40k,Some College,0.505142453
+2,Northeast,Male,White,24,<$40k,Some College,0.505142453
+5,South,Female,Hispanic American,21,<$40k,Some College,0.49140439
+2,West,Male,White,23,<$40k,Some College,0.505142453
+2,Northeast,Male,White,51,<$40k,College Grad,2.036606082
+2,South,Female,White,32,$40-80k,College Grad,0.435434718
+5,South,Female,African American,28,$40-80k,College Grad,0.49140439
+5,Northeast,Male,White,27,$40-80k,Grad School,0.505142453
+5,South,Male,White,26,<$40k,Some College,0.505142453
+2,West,Male,White,30,>$80k,College Grad,0.505142453
+2,South,Female,White,21,<$40k,Some College,0.435434718
+5,West,Female,White,42,$40-80k,College Grad,0.435434718
+2,West,Female,White,43,<$40k,College Grad,0.435434718
+2,South,Female,Another origin,25,<$40k,No College,0.49140439
+2,Northeast,Male,African American,26,$40-80k,Some College,0.664633048
+2,West,Female,Hispanic American,19,$40-80k,Some College,0.49140439
+2,Northeast,Male,White,25,<$40k,Grad School,0.505142453
+5,Midwest,Male,White,35,$40-80k,Some College,0.505142453
+3,Midwest,Male,African American,32,<$40k,College Grad,0.664633048
+2,Northeast,Female,White,23,<$40k,Some College,0.435434718
+2,South,Female,White,59,<$40k,College Grad,1.006338014
+3,Northeast,Female,African American,26,$40-80k,Some College,0.49140439
+4,Northeast,Male,African American,36,<$40k,Some College,0.664633048
+3,South,Female,White,24,<$40k,College Grad,0.435434718
+1,South,Male,White,34,$40-80k,Some College,0.505142453
+3,South,Female,Hispanic American,18,$40-80k,Some College,0.49140439
+3,South,Male,White,25,$40-80k,College Grad,0.505142453
+1,South,Female,Asian American,19,<$40k,Some College,0.49140439
+1,Midwest,Male,White,23,<$40k,No College,0.505142453
+5,Midwest,Female,White,63,$40-80k,Some College,1.006338014
+2,South,Female,White,42,>$80k,Grad School,0.435434718
+3,Northeast,Male,White,34,>$80k,Grad School,0.505142453
+5,Midwest,Female,White,38,$40-80k,Some College,0.435434718
+2,South,Male,White,49,<$40k,Some College,2.036606082
+2,Midwest,Male,White,32,<$40k,No College,0.505142453
+2,West,Male,Asian American,28,<$40k,Some College,0.664633048
+2,West,Female,White,22,<$40k,Some College,0.435434718
+5,South,Female,White,27,<$40k,Some College,0.435434718
+3,Northeast,Female,White,37,$40-80k,No College,0.435434718
+5,South,Male,White,52,$40-80k,Some College,2.036606082
+3,South,Female,African American,58,$40-80k,No College,4.071636288
+3,South,Female,White,26,<$40k,No College,0.435434718
+1,South,Female,White,24,<$40k,Some College,0.435434718
+2,Midwest,Female,White,25,$40-80k,College Grad,0.435434718
+1,West,Male,White,24,<$40k,Grad School,0.505142453
+2,Midwest,Female,Another origin,30,<$40k,Grad School,0.49140439
+2,South,Female,Hispanic American,40,$40-80k,College Grad,0.49140439
+1,Northeast,Male,White,21,$40-80k,Some College,0.505142453
+3,Midwest,Female,White,21,<$40k,Some College,0.435434718
+1,South,Male,White,24,<$40k,Some College,0.505142453
+1,South,Male,White,18,>$80k,No College,0.505142453
+5,Midwest,Male,White,21,$40-80k,Grad School,0.505142453
+2,South,Female,White,26,<$40k,Some College,0.435434718
+2,Northeast,Female,White,58,<$40k,College Grad,1.006338014
+2,Northeast,Female,White,26,$40-80k,College Grad,0.435434718
+2,Northeast,Female,White,43,>$80k,College Grad,0.435434718
+2,South,Male,White,21,<$40k,Some College,0.505142453
+2,South,Female,White,34,>$80k,College Grad,0.435434718
+3,Northeast,Female,White,19,<$40k,No College,0.435434718
+2,South,Male,White,37,>$80k,Grad School,0.505142453
+3,West,Male,White,62,>$80k,Grad School,2.036606082
+5,West,Male,Asian American,23,$40-80k,Some College,0.664633048
+1,Northeast,Male,White,37,$40-80k,Grad School,0.505142453
+3,Northeast,Female,White,22,$40-80k,Grad School,0.435434718
+3,West,Female,White,29,<$40k,Some College,0.435434718
+2,South,Female,White,32,$40-80k,Some College,0.435434718
+2,Midwest,Male,White,35,<$40k,Grad School,0.505142453
+2,West,Male,White,28,$40-80k,Some College,0.505142453
+2,West,Female,White,32,>$80k,College Grad,0.435434718
+1,Midwest,Female,White,55,$40-80k,Some College,1.006338014
+1,West,Male,White,18,<$40k,MISSING,0.505142453
+2,West,Male,White,25,>$80k,College Grad,0.505142453
+2,West,Female,White,22,$40-80k,College Grad,0.435434718
+2,South,Male,African American,33,<$40k,No College,0.664633048
+1,South,Female,White,27,<$40k,Some College,0.435434718
+5,Midwest,Female,White,59,$40-80k,Grad School,1.006338014
+2,West,Male,Asian American,19,<$40k,No College,0.664633048
+2,Northeast,Male,White,30,$40-80k,Grad School,0.505142453
+5,Midwest,Female,White,52,$40-80k,Some College,1.006338014
+1,South,Male,African American,31,>$80k,Some College,0.664633048
+2,South,Male,African American,18,<$40k,Some College,0.664633048
+5,South,Female,White,59,$40-80k,Some College,1.006338014
+3,Midwest,Female,White,36,<$40k,Some College,0.435434718
+1,Northeast,Male,White,19,<$40k,Some College,0.505142453
+2,Northeast,Male,White,26,$40-80k,Some College,0.505142453
+4,Midwest,Male,White,20,$40-80k,Some College,0.505142453
+3,South,Male,White,29,<$40k,Some College,0.505142453
+3,South,Male,White,27,$40-80k,College Grad,0.505142453
+3,Northeast,Female,White,26,<$40k,No College,0.435434718
+1,South,Male,White,51,$40-80k,Grad School,2.036606082
+2,Midwest,Male,White,56,<$40k,Grad School,2.036606082
+2,South,Female,Another origin,18,>$80k,No College,0.49140439
+3,South,Male,White,40,<$40k,Some College,0.505142453
+2,South,Male,White,25,<$40k,Some College,0.505142453
+2,West,Female,White,38,>$80k,Grad School,0.435434718
+2,Midwest,Male,White,35,<$40k,No College,0.505142453
+2,Northeast,Male,White,32,$40-80k,Grad School,0.505142453
+2,South,Male,White,42,<$40k,College Grad,0.505142453
+2,South,Female,Hispanic American,44,$40-80k,College Grad,4.071636288
+5,Midwest,Female,African American,37,$40-80k,No College,0.49140439
+5,Midwest,Female,White,45,<$40k,College Grad,1.006338014
+2,Northeast,Female,White,20,>$80k,Some College,0.435434718
+2,Northeast,Female,White,24,>$80k,College Grad,0.435434718
+2,South,Female,White,58,$40-80k,College Grad,1.006338014
+2,Midwest,Male,White,40,>$80k,College Grad,0.505142453
+1,Midwest,Female,White,42,$40-80k,Grad School,0.435434718
+3,Midwest,Female,African American,40,<$40k,Some College,0.49140439
+5,West,Male,White,27,>$80k,Some College,0.505142453
+4,Northeast,Male,White,47,$40-80k,Some College,2.036606082
+2,South,Female,White,44,>$80k,Grad School,1.006338014
+2,West,Male,White,44,$40-80k,College Grad,2.036606082
+2,Midwest,Female,White,39,<$40k,College Grad,0.435434718
+5,West,Female,White,57,$40-80k,College Grad,1.006338014
+5,South,Female,White,32,$40-80k,No College,0.435434718
+5,Northeast,Female,African American,34,$40-80k,Some College,0.49140439
+2,South,Female,White,34,<$40k,College Grad,0.435434718
+2,South,Male,White,77,<$40k,Some College,2.036606082
+5,West,Female,White,21,<$40k,Some College,0.435434718
+2,Midwest,Male,White,45,<$40k,No College,2.036606082
+2,Northeast,Female,White,21,<$40k,Some College,0.435434718
+2,Midwest,Male,White,52,$40-80k,College Grad,2.036606082
+1,Midwest,Male,White,19,$40-80k,Some College,0.505142453
+2,Midwest,Male,White,24,<$40k,No College,0.505142453
+3,Midwest,Female,Hispanic American,22,<$40k,Some College,0.49140439
+2,West,Male,White,24,$40-80k,Some College,0.505142453
+2,Midwest,Male,White,20,$40-80k,Some College,0.505142453
+3,West,Male,White,26,$40-80k,Some College,0.505142453
+2,South,Female,White,18,>$80k,No College,0.435434718
+3,Northeast,Female,White,39,>$80k,Some College,0.435434718
+2,Northeast,Female,White,29,$40-80k,No College,0.435434718
+2,Midwest,Female,White,38,$40-80k,Some College,0.435434718
+2,West,Female,White,27,<$40k,Some College,0.435434718
+5,South,Female,Hispanic American,23,<$40k,Some College,0.49140439
+5,Midwest,Female,White,57,<$40k,Some College,1.006338014
+2,Midwest,Female,White,28,<$40k,Some College,0.435434718
+3,South,Female,White,51,$40-80k,Some College,1.006338014
+2,South,Female,White,49,<$40k,Some College,1.006338014
+2,Northeast,Female,White,47,<$40k,College Grad,1.006338014
+3,West,Female,White,20,>$80k,Some College,0.435434718
+5,South,Male,White,49,<$40k,Some College,2.036606082
+3,Midwest,Male,White,55,<$40k,No College,2.036606082
+2,West,Female,White,54,$40-80k,College Grad,1.006338014
+4,Northeast,Female,White,50,<$40k,No College,1.006338014
+1,Midwest,Female,African American,23,$40-80k,College Grad,0.49140439
+2,South,Male,Hispanic American,64,<$40k,Some College,6.729409613
+3,Midwest,Female,White,49,<$40k,College Grad,1.006338014
+5,West,Female,White,42,>$80k,College Grad,0.435434718
+2,South,Female,White,22,<$40k,Some College,0.435434718
+1,South,Male,White,24,<$40k,College Grad,0.505142453
+2,Northeast,Male,White,27,>$80k,Some College,0.505142453
+2,Midwest,Female,White,29,<$40k,College Grad,0.435434718
+5,Northeast,Female,White,25,>$80k,College Grad,0.435434718
+3,West,Female,White,37,<$40k,College Grad,0.435434718
+5,West,Male,White,42,$40-80k,College Grad,0.505142453
+3,Midwest,Female,White,37,<$40k,Some College,0.435434718
+2,South,Female,White,50,$40-80k,Some College,1.006338014
+2,West,Female,White,38,<$40k,Some College,0.435434718
+2,South,Male,White,21,>$80k,Some College,0.505142453
+2,West,Female,White,56,$40-80k,College Grad,1.006338014
+2,Midwest,Male,White,22,$40-80k,Some College,0.505142453
+2,West,Female,White,49,<$40k,Some College,1.006338014
+2,South,Female,White,70,<$40k,Some College,1.006338014
+1,West,Female,White,26,<$40k,No College,0.435434718
+5,Northeast,Male,White,55,>$80k,No College,2.036606082
+2,Midwest,Female,White,45,<$40k,Some College,1.006338014
+1,South,Male,White,29,>$80k,College Grad,0.505142453
+5,Midwest,Male,White,37,$40-80k,Some College,0.505142453
+4,South,Female,White,59,<$40k,No College,1.006338014
+2,South,Female,White,43,>$80k,College Grad,0.435434718
+3,West,Female,White,46,$40-80k,College Grad,1.006338014
+2,South,Male,White,24,<$40k,No College,0.505142453
+3,South,Male,White,25,<$40k,College Grad,0.505142453
+2,South,Male,White,23,<$40k,Some College,0.505142453
+2,South,Male,White,20,<$40k,Some College,0.505142453
+1,South,Male,White,18,>$80k,No College,0.505142453
+3,West,Male,White,20,$40-80k,College Grad,0.505142453
+2,South,Female,White,28,$40-80k,College Grad,0.435434718
+2,Midwest,Female,White,27,>$80k,Grad School,0.435434718
+2,South,Female,White,58,<$40k,Grad School,1.006338014
+5,Midwest,Male,White,55,<$40k,No College,2.036606082
+2,Northeast,Female,White,33,>$80k,Grad School,0.435434718
+1,South,Female,White,45,<$40k,Some College,1.006338014
+3,South,Female,White,18,<$40k,No College,0.435434718
+2,Northeast,Female,White,35,$40-80k,Grad School,0.435434718
+3,Northeast,Male,White,24,<$40k,Some College,0.505142453
+3,West,Female,White,33,<$40k,Some College,0.435434718
+2,South,Female,White,37,$40-80k,College Grad,0.435434718
+2,Northeast,Male,White,24,$40-80k,College Grad,0.505142453
+5,Northeast,Male,White,48,$40-80k,College Grad,2.036606082
+4,Northeast,Female,White,46,<$40k,Some College,1.006338014
+5,South,Female,White,35,<$40k,Grad School,0.435434718
+1,Northeast,Male,Another origin,35,<$40k,Some College,0.664633048
+2,South,Female,White,28,>$80k,Grad School,0.435434718
+3,South,Female,White,31,$40-80k,Grad School,0.435434718
+2,West,Male,White,27,>$80k,Grad School,0.505142453
+5,West,Female,Asian American,54,<$40k,No College,4.071636288
+2,Northeast,Female,African American,19,>$80k,No College,0.49140439
+2,Midwest,Female,Hispanic American,23,<$40k,College Grad,0.49140439
+5,South,Male,White,28,<$40k,Some College,0.505142453
+1,West,Male,White,21,<$40k,Some College,0.505142453
+2,South,Male,White,29,$40-80k,Some College,0.505142453
+2,Midwest,Male,White,22,>$80k,Some College,0.505142453
+2,West,Female,White,31,$40-80k,Some College,0.435434718
+2,Midwest,Male,White,26,$40-80k,College Grad,0.505142453
+2,Midwest,Male,White,30,<$40k,Some College,0.505142453
+5,West,Male,White,25,<$40k,Some College,0.505142453
+1,West,Male,White,37,$40-80k,No College,0.505142453
+5,South,Female,White,26,<$40k,Some College,0.435434718
+1,Midwest,Female,Hispanic American,22,<$40k,College Grad,0.49140439
+2,Northeast,Male,White,37,$40-80k,College Grad,0.505142453
+2,South,Female,White,24,<$40k,College Grad,0.435434718
+2,Northeast,Female,White,18,<$40k,No College,0.435434718
+2,Northeast,Male,Asian American,36,$40-80k,Some College,0.664633048
+2,Northeast,Male,African American,35,<$40k,Some College,0.664633048
+5,South,Female,White,23,<$40k,Grad School,0.435434718
+2,South,Female,White,21,<$40k,Some College,0.435434718
+2,West,Male,White,21,<$40k,Some College,0.505142453
+1,West,Male,African American,28,$40-80k,Some College,0.664633048
+2,Midwest,Male,White,21,<$40k,Some College,0.505142453
+2,South,Female,White,32,$40-80k,Grad School,0.435434718
+1,South,Male,White,27,<$40k,College Grad,0.505142453
+1,West,Male,White,44,<$40k,Some College,2.036606082
+2,Northeast,Female,White,61,$40-80k,Some College,1.006338014
+1,South,Male,Asian American,25,<$40k,College Grad,0.664633048
+1,West,Male,Asian American,20,$40-80k,Some College,0.664633048
+5,Midwest,Female,African American,31,$40-80k,College Grad,0.49140439
+1,Northeast,Male,Hispanic American,18,<$40k,No College,0.664633048
+1,Northeast,Female,White,49,>$80k,Some College,1.006338014
+2,South,Female,White,33,$40-80k,Some College,0.435434718
+2,West,Male,White,20,>$80k,Some College,0.505142453
+2,West,Female,White,20,<$40k,Some College,0.435434718
+2,West,Male,White,20,<$40k,Some College,0.505142453
+5,Northeast,Female,White,55,<$40k,Some College,1.006338014
+2,West,Female,White,18,<$40k,Some College,0.435434718
+3,South,Male,White,18,<$40k,Some College,0.505142453
+1,Midwest,Male,White,28,>$80k,Some College,0.505142453
+3,South,Male,White,30,<$40k,Some College,0.505142453
+1,Midwest,Female,White,26,<$40k,College Grad,0.435434718
+1,West,Female,White,43,$40-80k,Some College,0.435434718
+2,West,Male,Hispanic American,33,<$40k,Some College,0.664633048
+2,South,Female,White,29,<$40k,Some College,0.435434718
+2,South,Female,White,54,$40-80k,College Grad,1.006338014
+1,South,Female,White,24,$40-80k,College Grad,0.435434718
+2,West,Male,White,30,$40-80k,College Grad,0.505142453
+5,South,Female,White,31,<$40k,Some College,0.435434718
+5,South,Female,White,40,<$40k,Some College,0.435434718
+1,Northeast,Female,Hispanic American,21,<$40k,No College,0.49140439
+1,Midwest,Female,White,22,<$40k,College Grad,0.435434718
+2,Midwest,Female,White,38,$40-80k,Some College,0.435434718
+2,West,Female,Asian American,36,$40-80k,Grad School,0.49140439
+2,West,Female,White,23,<$40k,College Grad,0.435434718
+2,South,Male,White,40,<$40k,Grad School,0.505142453
+2,South,Female,White,29,<$40k,Some College,0.435434718
+2,Midwest,Female,Another origin,27,<$40k,Some College,0.49140439
+5,South,Female,White,48,<$40k,Some College,1.006338014
+2,Midwest,Male,White,41,<$40k,Some College,0.505142453
+5,Midwest,Male,White,55,<$40k,No College,2.036606082
+2,South,Female,White,43,<$40k,No College,0.435434718
+2,Midwest,Male,White,30,<$40k,College Grad,0.505142453
+2,South,Male,White,25,$40-80k,College Grad,0.505142453
+2,Midwest,Male,Asian American,26,<$40k,College Grad,0.664633048
+5,Midwest,Female,White,47,$40-80k,College Grad,1.006338014
+2,Northeast,Male,Asian American,25,<$40k,No College,0.664633048
+5,Midwest,Male,White,37,$40-80k,Some College,0.505142453
+2,Midwest,Female,White,27,<$40k,No College,0.435434718
+2,Midwest,Male,White,37,$40-80k,College Grad,0.505142453
+2,South,Female,White,36,<$40k,Some College,0.435434718
+2,Northeast,Female,White,23,<$40k,College Grad,0.435434718
+2,Northeast,Female,Hispanic American,26,<$40k,Some College,0.49140439
+2,West,Male,White,33,$40-80k,Some College,0.505142453
+2,South,Female,White,39,>$80k,Some College,0.435434718
+2,Midwest,Female,White,22,<$40k,No College,0.435434718
+1,West,Male,White,24,$40-80k,College Grad,0.505142453
+1,South,Male,White,77,<$40k,Some College,2.036606082
+3,South,Female,African American,27,<$40k,No College,0.49140439
+2,Midwest,Female,White,34,<$40k,Some College,0.435434718
+2,West,Female,White,41,$40-80k,Grad School,0.435434718
+2,Midwest,Female,White,62,<$40k,Grad School,1.006338014
+3,South,Female,White,24,>$80k,Grad School,0.435434718
+1,West,Female,Another origin,19,<$40k,Some College,0.49140439
+1,Midwest,Male,White,24,<$40k,No College,0.505142453
+5,West,Male,White,61,$40-80k,Grad School,2.036606082
+1,Northeast,Male,Asian American,22,<$40k,Some College,0.664633048
+2,South,Male,White,22,<$40k,Some College,0.505142453
+3,South,Female,White,29,<$40k,Some College,0.435434718
+2,South,Female,White,57,$40-80k,College Grad,1.006338014
+5,Northeast,Male,White,33,$40-80k,Grad School,0.505142453
+1,West,Female,White,25,>$80k,Grad School,0.435434718
+2,Northeast,Female,White,28,$40-80k,Grad School,0.435434718
+3,West,Female,Asian American,20,<$40k,Some College,0.49140439
+3,Midwest,Female,White,55,<$40k,Some College,1.006338014
+2,Midwest,Female,African American,53,$40-80k,Grad School,4.071636288
+2,Northeast,Female,White,39,$40-80k,Some College,0.435434718
+1,South,Female,Hispanic American,19,$40-80k,Some College,0.49140439
+1,Midwest,Male,White,35,<$40k,Some College,0.505142453
+2,South,Female,White,57,<$40k,Grad School,1.006338014
+1,South,Male,Hispanic American,32,<$40k,College Grad,0.664633048
+2,South,Male,Hispanic American,45,>$80k,Grad School,6.729409613
+2,West,Female,Asian American,38,>$80k,Grad School,0.49140439
+2,West,Female,White,40,$40-80k,Some College,0.435434718
+5,South,Female,White,22,<$40k,Some College,0.435434718
+3,Northeast,Female,African American,36,<$40k,No College,0.49140439
+3,Midwest,Female,White,44,<$40k,No College,1.006338014
+2,South,Male,White,62,<$40k,Grad School,2.036606082
+2,South,Male,White,19,<$40k,Some College,0.505142453
+2,South,Male,Hispanic American,28,$40-80k,Some College,0.664633048
+2,Midwest,Female,White,38,<$40k,Some College,0.435434718
+1,Midwest,Female,White,22,<$40k,College Grad,0.435434718
+1,West,Female,White,28,$40-80k,Some College,0.435434718
+1,South,Male,White,28,$40-80k,Grad School,0.505142453
+1,West,Male,Asian American,22,<$40k,Some College,0.664633048
+2,South,Male,White,23,>$80k,Grad School,0.505142453
+2,South,Male,White,43,>$80k,College Grad,0.505142453
+2,West,Female,White,48,$40-80k,Some College,1.006338014
+2,Northeast,Female,White,20,<$40k,Some College,0.435434718
+2,South,Female,Hispanic American,24,>$80k,Grad School,0.49140439
+2,South,Female,White,28,<$40k,Some College,0.435434718
+2,South,Male,White,22,<$40k,Some College,0.505142453
+1,Northeast,Male,African American,28,<$40k,No College,0.664633048
+2,West,Female,White,22,>$80k,Some College,0.435434718
+5,Midwest,Female,White,57,<$40k,Some College,1.006338014
+5,South,Female,Hispanic American,20,<$40k,Some College,0.49140439
+3,Northeast,Female,White,48,$40-80k,College Grad,1.006338014
+2,West,Male,White,19,>$80k,Some College,0.505142453
+2,West,Male,White,20,<$40k,Some College,0.505142453
+4,Midwest,Female,White,51,<$40k,No College,1.006338014
+1,South,Male,White,29,$40-80k,Some College,0.505142453
+3,Northeast,Male,White,38,>$80k,College Grad,0.505142453
+3,West,Female,Asian American,22,$40-80k,Some College,0.49140439
+2,South,Male,African American,21,<$40k,No College,0.664633048
+5,Northeast,Female,White,21,<$40k,Some College,0.435434718
+2,West,Female,Another origin,22,<$40k,College Grad,0.49140439
+3,West,Female,White,37,$40-80k,College Grad,0.435434718
+1,Midwest,Female,White,25,<$40k,Some College,0.435434718
+3,South,Female,White,35,<$40k,No College,0.435434718
+2,South,Female,White,68,<$40k,Some College,1.006338014
+2,Midwest,Female,White,20,<$40k,Some College,0.435434718
+2,South,Male,African American,23,<$40k,Some College,0.664633048
+1,West,Female,White,59,$40-80k,Some College,1.006338014
+5,South,Female,African American,23,<$40k,Some College,0.49140439
+1,West,Male,White,26,<$40k,Some College,0.505142453
+3,West,Female,White,30,<$40k,Grad School,0.435434718
+2,South,Female,White,50,>$80k,College Grad,1.006338014
+1,Northeast,Female,Another origin,20,<$40k,Some College,0.49140439
+5,Northeast,Male,White,57,<$40k,Some College,2.036606082
+2,South,Female,White,27,$40-80k,Grad School,0.435434718
+2,Northeast,Female,White,22,<$40k,College Grad,0.435434718
+3,South,Male,White,44,>$80k,Some College,2.036606082
+2,South,Female,White,36,$40-80k,Grad School,0.435434718
+5,Midwest,Female,White,39,>$80k,College Grad,0.435434718
+2,Midwest,Female,White,30,>$80k,Grad School,0.435434718
+3,Midwest,Female,White,25,$40-80k,Some College,0.435434718
+3,South,Female,African American,31,$40-80k,No College,0.49140439
+3,Midwest,Female,Asian American,26,<$40k,No College,0.49140439
+2,South,Male,Asian American,29,$40-80k,Grad School,0.664633048
+2,Northeast,Female,Hispanic American,33,<$40k,Grad School,0.49140439
+3,South,Female,White,52,<$40k,No College,1.006338014
+2,West,Female,White,34,$40-80k,Some College,0.435434718
+2,West,Male,White,52,<$40k,Some College,2.036606082
+5,Midwest,Female,White,53,$40-80k,Some College,1.006338014
+3,South,Female,White,54,$40-80k,No College,1.006338014
+2,South,Male,White,28,$40-80k,Some College,0.505142453
+1,Northeast,Female,White,54,<$40k,College Grad,1.006338014
+5,Northeast,Female,African American,19,$40-80k,Some College,0.49140439
+5,South,Male,White,47,<$40k,Some College,2.036606082
+2,Midwest,Female,White,18,$40-80k,Some College,0.435434718
+2,South,Male,White,23,>$80k,Some College,0.505142453
+1,West,Female,White,25,<$40k,No College,0.435434718
+2,West,Male,White,20,<$40k,Some College,0.505142453
+2,Midwest,Female,White,23,<$40k,Some College,0.435434718
+2,South,Male,White,19,>$80k,Some College,0.505142453
+2,South,Female,White,23,<$40k,Some College,0.435434718
+2,Northeast,Female,White,34,>$80k,College Grad,0.435434718
+5,South,Female,White,32,>$80k,College Grad,0.435434718
+5,Midwest,Female,White,25,$40-80k,College Grad,0.435434718
+2,South,Female,White,21,<$40k,Some College,0.435434718
+2,Midwest,Female,Hispanic American,28,<$40k,Grad School,0.49140439
+3,Midwest,Male,White,19,$40-80k,Some College,0.505142453
+2,South,Male,Hispanic American,25,<$40k,College Grad,0.664633048
+4,West,Female,White,54,$40-80k,Some College,1.006338014
+1,Northeast,Male,African American,26,<$40k,No College,0.664633048
+2,South,Female,White,28,$40-80k,Some College,0.435434718
+2,Northeast,Female,White,40,>$80k,College Grad,0.435434718
+3,Midwest,Female,White,64,<$40k,No College,1.006338014
+3,Midwest,Female,Hispanic American,37,$40-80k,Some College,0.49140439
+2,South,Male,African American,53,<$40k,Some College,6.729409613
+2,West,Female,White,26,<$40k,No College,0.435434718
+2,South,Male,African American,44,$40-80k,College Grad,6.729409613
+1,South,Male,Hispanic American,20,<$40k,Some College,0.664633048
+5,South,Female,White,36,<$40k,College Grad,0.435434718
+1,South,Male,White,22,<$40k,No College,0.505142453
+5,South,Male,White,20,<$40k,Some College,0.505142453
+2,Northeast,Male,White,28,<$40k,No College,0.505142453
+2,West,Female,White,28,$40-80k,Grad School,0.435434718
+2,Northeast,Female,White,24,<$40k,College Grad,0.435434718
+1,South,Female,Hispanic American,22,<$40k,No College,0.49140439
+5,South,Male,White,54,<$40k,No College,2.036606082
+1,West,Male,White,26,<$40k,Grad School,0.505142453
+2,West,Female,Hispanic American,34,$40-80k,Some College,0.49140439
+1,South,Male,White,19,<$40k,Some College,0.505142453
+1,West,Male,White,31,$40-80k,College Grad,0.505142453
+5,Northeast,Female,White,54,<$40k,Grad School,1.006338014
+2,Midwest,Female,White,25,<$40k,College Grad,0.435434718
+1,Midwest,Male,Hispanic American,47,<$40k,Grad School,6.729409613
+2,Midwest,Female,White,44,$40-80k,College Grad,1.006338014
+5,South,Female,Another origin,27,$40-80k,Grad School,0.49140439
+2,Midwest,Female,White,29,$40-80k,No College,0.435434718
+5,Midwest,Female,White,29,<$40k,College Grad,0.435434718
+1,South,Male,White,37,<$40k,No College,0.505142453
+2,South,Male,Asian American,43,>$80k,College Grad,0.664633048
+2,West,Female,White,39,>$80k,Some College,0.435434718
+2,Northeast,Female,White,58,>$80k,College Grad,1.006338014
+2,Midwest,Female,White,33,<$40k,College Grad,0.435434718
+5,South,Female,White,33,$40-80k,College Grad,0.435434718
+3,Northeast,Female,White,41,$40-80k,Grad School,0.435434718
+2,Northeast,Female,Hispanic American,23,<$40k,College Grad,0.49140439
+3,South,Male,White,20,$40-80k,Some College,0.505142453
+2,Northeast,Female,White,55,<$40k,Some College,1.006338014
+2,Midwest,Male,White,20,<$40k,No College,0.505142453
+2,Midwest,Male,White,61,$40-80k,Grad School,2.036606082
+3,South,Male,White,30,<$40k,College Grad,0.505142453
+2,South,Female,White,34,>$80k,College Grad,0.435434718
+1,South,Male,White,48,<$40k,Some College,2.036606082
+2,South,Female,White,18,<$40k,No College,0.435434718
+2,Midwest,Female,African American,19,<$40k,Some College,0.49140439
+2,Northeast,Male,White,23,<$40k,College Grad,0.505142453
+2,South,Female,White,30,<$40k,College Grad,0.435434718
+2,South,Male,White,25,<$40k,Some College,0.505142453
+2,Northeast,Female,African American,18,<$40k,Some College,0.49140439
+5,West,Female,White,23,<$40k,College Grad,0.435434718
+3,Midwest,Male,White,19,$40-80k,No College,0.505142453
+5,South,Male,White,28,<$40k,Some College,0.505142453
+2,West,Female,White,33,$40-80k,Grad School,0.435434718
+2,South,Female,White,19,$40-80k,No College,0.435434718

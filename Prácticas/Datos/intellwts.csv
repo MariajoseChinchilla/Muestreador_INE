@@ -1,0 +1,9 @@
+sex,agegroup,race,tel_n,online_n,tel_wgt,online_wgt
+Female,Young,Nonwhite,47,116,1.213,0.491
+Female,Young,White,114,312,1.192,0.435
+Female,Old,Nonwhite,112,14,0.509,4.072
+Female,Old,White,878,135,0.155,1.006
+Male,Young,Nonwhite,27,81,1.994,0.665
+Male,Young,White,93,254,1.38,0.505
+Male,Old,Nonwhite,89,8,0.605,6.729
+Male,Old,White,478,63,0.268,2.037
