@@ -84,7 +84,7 @@ class MuestreoINE:
 
     # Calcular un intervalo de confianza con confianza dada para media con muestreo estratificado
     def media_IC_estratificado_z(self, confianza: float, tamaño_estratos: list, tamaño_muestras: list,
-                                  columna_pesos: str, datos: pd.DataFrame, nombre_columna_estrato: str, nombre_col_va: list):
+                                  columna_pesos: str, datos: pd.DataFrame, nombre_columna_estrato: str, nombre_col_va: str):
         # Validación de los tamaños de los estratos y muestras
         if len(tamaño_estratos) != len(tamaño_muestras):
             raise ValueError("Los tamaños de los estratos y las muestras deben coincidir.")
@@ -102,7 +102,7 @@ class MuestreoINE:
             n_estrato = tamaño_muestras[i]
             N_estrato = tamaño_estratos[i]
             varianza_estrato = varianzas[i]
-            v += (n_estrato * (N_estrato - n_estrato) / n_total**2) * (N_total**2 / N_estrato) * varianza_estrato ** 2
+            v += n_total / n_estrato * N_estrato**2 / N_total**2 * varianza_estrato**2
         
         z = norm.ppf(0.5 + confianza / 2)
         media = self.media_estratificado(columna_pesos, nombre_col_va, datos)
@@ -110,4 +110,39 @@ class MuestreoINE:
 
         return (media - error, media + error)
     
-    
+    # Intervalo de confianza para proporción con muestreo estratificado
+    def proporcion_IC_estratificado(self, confianza: float, tamaño_estratos: list, tamaño_muestras: list, proporciones: list):
+        
+        # Validación de los tamaños de los estratos y muestras
+        if len(tamaño_estratos) != len(tamaño_muestras):
+            raise ValueError("Los tamaños de los estratos y las muestras deben coincidir.")
+        
+        if len(tamaño_estratos) == 0 or  len(tamaño_muestras) == 0:
+            raise ValueError("Ingrese datos válidos. La lista es vacía.")
+        
+        N_total = sum(tamaño_estratos)
+        n_total = sum(tamaño_muestras)
+
+        proporcion_estimador = 0
+        for i in range(len(tamaño_estratos)):
+            proporcion_estimador += tamaño_estratos[i] / N_total * proporciones[i]
+        
+        varianzas = []
+        for i in range(len(tamaño_muestras)):
+            if tamaño_muestras[i] != 1:
+                varianza = tamaño_muestras[i] / (tamaño_muestras[i] - 1) * proporciones[i] * (1 - proporciones[i])
+            else:
+                varianza = 0
+            varianzas.append(varianza)
+
+        v = 0
+        for i in range(len(varianzas)):
+            n_estrato = tamaño_muestras[i]
+            N_estrato = tamaño_estratos[i]
+            varianza_estrato = varianzas[i]
+            v += n_total / n_estrato * N_estrato**2 / N_total**2 * varianza_estrato**2
+
+        z = norm.ppf(0.5 + confianza / 2)
+        error = z * np.sqrt(v/n_total)
+
+        return (proporcion_estimador -  error, proporcion_estimador + error)
