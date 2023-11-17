@@ -12,9 +12,9 @@ class MuestreoINE:
     # Métodos para cálculo de tamaño de muestra
 
     # SRS
-    def tamaño_srs(self, error, confianza) -> int:
+    def tamaño_srs(self, error, confianza, varianza) -> int:
         z = norm.ppf(1- ((1 - confianza) / 2))
-        n = (self.varianza * z**2) / error**2
+        n = (varianza * z**2) / error**2
         return n / (1 + n / self.poblacion)
 
     # Cálculo de tamaño de muestra por estrato
