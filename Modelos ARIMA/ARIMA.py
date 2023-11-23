@@ -61,6 +61,7 @@ class ModeloARIMA():
         # Añadir paquetes necesarios para imágenes y encabezados personalizados
         doc.packages.append(Package('graphicx'))  # Para incluir imágenes
         doc.packages.append(Package('fancyhdr'))  # Para encabezados personalizados
+        doc.packages.append(Package('booktabs'))
 
         # Configurar la página con encabezado personalizado
         doc.preamble.append(Command('pagestyle', 'fancy'))
@@ -110,6 +111,11 @@ class ModeloARIMA():
                 table.add_row(formatted_predictions)
 
             table.add_hline()
+
+             # Añadir las tablas de resumen al documento
+            for var, summary_latex in summaries.items():
+                doc.append(NoEscape(r'\subsection*{%s}' % var))
+                doc.append(NoEscape(summary_latex))
     
         os.environ['PATH'] += os.pathsep + 'C:\\Users\\mchinchilla\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64'
         os.environ['PATH'] += os.pathsep + 'C:\Strawberry\perl\bin'

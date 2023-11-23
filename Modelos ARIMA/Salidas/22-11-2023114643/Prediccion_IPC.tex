@@ -1,0 +1,424 @@
+\documentclass{article}%
+\usepackage[T1]{fontenc}%
+\usepackage[utf8]{inputenc}%
+\usepackage{lmodern}%
+\usepackage{textcomp}%
+\usepackage{lastpage}%
+\usepackage{geometry}%
+\geometry{margin=1in,landscape=True,headheight=2in,headsep=0.5in}%
+\usepackage{graphicx}%
+\usepackage{fancyhdr}%
+\usepackage{booktabs}%
+\usepackage{float}%
+\usepackage{longtable}%
+%
+\pagestyle{fancy}%
+\fancyhf{}%
+\title{Predicción IPC para los próximos 5 meses}%
+\date{}%
+%
+\begin{document}%
+\normalsize%
+\maketitle%
+\section{Predicciones}%
+\label{sec:Predicciones}%
+\begin{longtable}{|l r|r|r|r|r|r|r|r|r|r|}%
+\hline%
+Año&Mes&República&Región I&Región II&Región III&Región IV&Región V&Región VI&Región VII&Región VIII\\%
+\hline%
+2023&Diciembre&168.09&142.17&247.87&159.66&236.56&154.69&153.53&227.66&170.9\\%
+2024&Enero&168.81&142.92&247.87&160.66&237.76&155.22&154.27&228.98&170.93\\%
+2024&Febrero&169.53&143.68&247.87&161.67&238.78&155.75&155.02&230.22&170.93\\%
+2024&Marzo&170.25&144.44&247.87&162.67&239.96&156.28&155.77&231.45&170.92\\%
+2024&Abril&170.97&145.2&247.87&163.67&241.17&156.81&156.51&232.69&170.92\\%
+\hline%
+\end{longtable}
+
+%
+\section{Gráficas}%
+\label{sec:Grficas}%
+
+
+\begin{figure}[H]%
+\centering%
+\includegraphics[width=0.8\textwidth]{C:/Users/mchinchilla/Desktop/Programa Muestreo/Modelos ARIMA/Salidas/22-11-2023114643/Graficas/22-11-2023114643/República.png}%
+\caption{Gráfica de República}%
+\end{figure}
+
+%
+
+
+\begin{figure}[H]%
+\centering%
+\includegraphics[width=0.8\textwidth]{C:/Users/mchinchilla/Desktop/Programa Muestreo/Modelos ARIMA/Salidas/22-11-2023114643/Graficas/22-11-2023114643/Región I.png}%
+\caption{Gráfica de Región I}%
+\end{figure}
+
+%
+
+
+\begin{figure}[H]%
+\centering%
+\includegraphics[width=0.8\textwidth]{C:/Users/mchinchilla/Desktop/Programa Muestreo/Modelos ARIMA/Salidas/22-11-2023114643/Graficas/22-11-2023114643/Región II.png}%
+\caption{Gráfica de Región II}%
+\end{figure}
+
+%
+
+
+\begin{figure}[H]%
+\centering%
+\includegraphics[width=0.8\textwidth]{C:/Users/mchinchilla/Desktop/Programa Muestreo/Modelos ARIMA/Salidas/22-11-2023114643/Graficas/22-11-2023114643/Región III.png}%
+\caption{Gráfica de Región III}%
+\end{figure}
+
+%
+
+
+\begin{figure}[H]%
+\centering%
+\includegraphics[width=0.8\textwidth]{C:/Users/mchinchilla/Desktop/Programa Muestreo/Modelos ARIMA/Salidas/22-11-2023114643/Graficas/22-11-2023114643/Región IV.png}%
+\caption{Gráfica de Región IV}%
+\end{figure}
+
+%
+
+
+\begin{figure}[H]%
+\centering%
+\includegraphics[width=0.8\textwidth]{C:/Users/mchinchilla/Desktop/Programa Muestreo/Modelos ARIMA/Salidas/22-11-2023114643/Graficas/22-11-2023114643/Región V.png}%
+\caption{Gráfica de Región V}%
+\end{figure}
+
+%
+
+
+\begin{figure}[H]%
+\centering%
+\includegraphics[width=0.8\textwidth]{C:/Users/mchinchilla/Desktop/Programa Muestreo/Modelos ARIMA/Salidas/22-11-2023114643/Graficas/22-11-2023114643/Región VI.png}%
+\caption{Gráfica de Región VI}%
+\end{figure}
+
+%
+
+
+\begin{figure}[H]%
+\centering%
+\includegraphics[width=0.8\textwidth]{C:/Users/mchinchilla/Desktop/Programa Muestreo/Modelos ARIMA/Salidas/22-11-2023114643/Graficas/22-11-2023114643/Región VII.png}%
+\caption{Gráfica de Región VII}%
+\end{figure}
+
+%
+
+
+\begin{figure}[H]%
+\centering%
+\includegraphics[width=0.8\textwidth]{C:/Users/mchinchilla/Desktop/Programa Muestreo/Modelos ARIMA/Salidas/22-11-2023114643/Graficas/22-11-2023114643/Región VIII.png}%
+\caption{Gráfica de Región VIII}%
+\end{figure}
+
+%
+\section{Tablas de resumen}%
+\label{sec:Tablasderesumen}%
+\subsection*{República}%
+\begin{center}
+\begin{tabular}{lclc}
+\toprule
+\textbf{Dep. Variable:}          &    República     & \textbf{  No. Observations:  } &    141      \\
+\textbf{Model:}                  &  ARIMA(0, 2, 2)  & \textbf{  Log Likelihood     } &  -112.529   \\
+\textbf{Date:}                   & Wed, 22 Nov 2023 & \textbf{  AIC                } &  231.058    \\
+\textbf{Time:}                   &     11:46:51     & \textbf{  BIC                } &  239.862    \\
+\textbf{Sample:}                 &        0         & \textbf{  HQIC               } &  234.636    \\
+\textbf{}                        &       - 141      & \textbf{                     } &             \\
+\textbf{Covariance Type:}        &       opg        & \textbf{                     } &             \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lcccccc}
+                & \textbf{coef} & \textbf{std err} & \textbf{z} & \textbf{P$> |$z$|$} & \textbf{[0.025} & \textbf{0.975]}  \\
+\midrule
+\textbf{ma.L1}  &      -0.5955  &        0.054     &   -11.024  &         0.000        &       -0.701    &       -0.490     \\
+\textbf{ma.L2}  &      -0.3488  &        0.066     &    -5.309  &         0.000        &       -0.478    &       -0.220     \\
+\textbf{sigma2} &       0.2912  &        0.024     &    11.995  &         0.000        &        0.244    &        0.339     \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lclc}
+\textbf{Ljung-Box (L1) (Q):}     & 0.22 & \textbf{  Jarque-Bera (JB):  } & 35.95  \\
+\textbf{Prob(Q):}                & 0.64 & \textbf{  Prob(JB):          } &  0.00  \\
+\textbf{Heteroskedasticity (H):} & 8.32 & \textbf{  Skew:              } &  0.70  \\
+\textbf{Prob(H) (two-sided):}    & 0.00 & \textbf{  Kurtosis:          } &  5.06  \\
+\bottomrule
+\end{tabular}
+%\caption{SARIMAX Results}
+\end{center}
+
+Warnings: \newline
+ [1] Covariance matrix calculated using the outer product of gradients (complex-step).%
+\subsection*{Región I}%
+\begin{center}
+\begin{tabular}{lclc}
+\toprule
+\textbf{Dep. Variable:}          &     Región I     & \textbf{  No. Observations:  } &    141      \\
+\textbf{Model:}                  &  ARIMA(1, 2, 1)  & \textbf{  Log Likelihood     } &  -50.463    \\
+\textbf{Date:}                   & Wed, 22 Nov 2023 & \textbf{  AIC                } &  106.926    \\
+\textbf{Time:}                   &     11:46:51     & \textbf{  BIC                } &  115.730    \\
+\textbf{Sample:}                 &        0         & \textbf{  HQIC               } &  110.504    \\
+\textbf{}                        &       - 141      & \textbf{                     } &             \\
+\textbf{Covariance Type:}        &       opg        & \textbf{                     } &             \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lcccccc}
+                & \textbf{coef} & \textbf{std err} & \textbf{z} & \textbf{P$> |$z$|$} & \textbf{[0.025} & \textbf{0.975]}  \\
+\midrule
+\textbf{ar.L1}  &       0.1670  &        0.114     &     1.466  &         0.143        &       -0.056    &        0.390     \\
+\textbf{ma.L1}  &      -0.8754  &        0.046     &   -19.138  &         0.000        &       -0.965    &       -0.786     \\
+\textbf{sigma2} &       0.1200  &        0.011     &    11.065  &         0.000        &        0.099    &        0.141     \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lclc}
+\textbf{Ljung-Box (L1) (Q):}     & 0.01 & \textbf{  Jarque-Bera (JB):  } & 66.74  \\
+\textbf{Prob(Q):}                & 0.92 & \textbf{  Prob(JB):          } &  0.00  \\
+\textbf{Heteroskedasticity (H):} & 2.01 & \textbf{  Skew:              } &  0.76  \\
+\textbf{Prob(H) (two-sided):}    & 0.02 & \textbf{  Kurtosis:          } &  6.04  \\
+\bottomrule
+\end{tabular}
+%\caption{SARIMAX Results}
+\end{center}
+
+Warnings: \newline
+ [1] Covariance matrix calculated using the outer product of gradients (complex-step).%
+\subsection*{Región II}%
+\begin{center}
+\begin{tabular}{lclc}
+\toprule
+\textbf{Dep. Variable:}          &    Región II     & \textbf{  No. Observations:  } &    141      \\
+\textbf{Model:}                  &  ARIMA(0, 1, 0)  & \textbf{  Log Likelihood     } &  -315.550   \\
+\textbf{Date:}                   & Wed, 22 Nov 2023 & \textbf{  AIC                } &  633.100    \\
+\textbf{Time:}                   &     11:46:52     & \textbf{  BIC                } &  636.041    \\
+\textbf{Sample:}                 &        0         & \textbf{  HQIC               } &  634.295    \\
+\textbf{}                        &       - 141      & \textbf{                     } &             \\
+\textbf{Covariance Type:}        &       opg        & \textbf{                     } &             \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lcccccc}
+                & \textbf{coef} & \textbf{std err} & \textbf{z} & \textbf{P$> |$z$|$} & \textbf{[0.025} & \textbf{0.975]}  \\
+\midrule
+\textbf{sigma2} &       5.3121  &        0.434     &    12.232  &         0.000        &        4.461    &        6.163     \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lclc}
+\textbf{Ljung-Box (L1) (Q):}     & 1.52 & \textbf{  Jarque-Bera (JB):  } & 39.84  \\
+\textbf{Prob(Q):}                & 0.22 & \textbf{  Prob(JB):          } &  0.00  \\
+\textbf{Heteroskedasticity (H):} & 4.17 & \textbf{  Skew:              } &  0.79  \\
+\textbf{Prob(H) (two-sided):}    & 0.00 & \textbf{  Kurtosis:          } &  5.08  \\
+\bottomrule
+\end{tabular}
+%\caption{SARIMAX Results}
+\end{center}
+
+Warnings: \newline
+ [1] Covariance matrix calculated using the outer product of gradients (complex-step).%
+\subsection*{Región III}%
+\begin{center}
+\begin{tabular}{lclc}
+\toprule
+\textbf{Dep. Variable:}          &    Región III    & \textbf{  No. Observations:  } &    141      \\
+\textbf{Model:}                  &  ARIMA(1, 2, 2)  & \textbf{  Log Likelihood     } &  -81.421    \\
+\textbf{Date:}                   & Wed, 22 Nov 2023 & \textbf{  AIC                } &  170.842    \\
+\textbf{Time:}                   &     11:46:52     & \textbf{  BIC                } &  182.580    \\
+\textbf{Sample:}                 &        0         & \textbf{  HQIC               } &  175.612    \\
+\textbf{}                        &       - 141      & \textbf{                     } &             \\
+\textbf{Covariance Type:}        &       opg        & \textbf{                     } &             \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lcccccc}
+                & \textbf{coef} & \textbf{std err} & \textbf{z} & \textbf{P$> |$z$|$} & \textbf{[0.025} & \textbf{0.975]}  \\
+\midrule
+\textbf{ar.L1}  &      -0.8515  &        0.091     &    -9.401  &         0.000        &       -1.029    &       -0.674     \\
+\textbf{ma.L1}  &       0.0990  &        0.065     &     1.520  &         0.128        &       -0.029    &        0.227     \\
+\textbf{ma.L2}  &      -0.8021  &        0.065     &   -12.354  &         0.000        &       -0.929    &       -0.675     \\
+\textbf{sigma2} &       0.1870  &        0.013     &    14.447  &         0.000        &        0.162    &        0.212     \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lclc}
+\textbf{Ljung-Box (L1) (Q):}     & 0.29 & \textbf{  Jarque-Bera (JB):  } & 250.41  \\
+\textbf{Prob(Q):}                & 0.59 & \textbf{  Prob(JB):          } &  0.00   \\
+\textbf{Heteroskedasticity (H):} & 4.45 & \textbf{  Skew:              } &  1.25   \\
+\textbf{Prob(H) (two-sided):}    & 0.00 & \textbf{  Kurtosis:          } &  9.08   \\
+\bottomrule
+\end{tabular}
+%\caption{SARIMAX Results}
+\end{center}
+
+Warnings: \newline
+ [1] Covariance matrix calculated using the outer product of gradients (complex-step).%
+\subsection*{Región IV}%
+\begin{center}
+\begin{tabular}{lclc}
+\toprule
+\textbf{Dep. Variable:}          &    Región IV     & \textbf{  No. Observations:  } &    141      \\
+\textbf{Model:}                  &  ARIMA(3, 1, 2)  & \textbf{  Log Likelihood     } &  -260.319   \\
+\textbf{Date:}                   & Wed, 22 Nov 2023 & \textbf{  AIC                } &  532.638    \\
+\textbf{Time:}                   &     11:46:52     & \textbf{  BIC                } &  550.287    \\
+\textbf{Sample:}                 &        0         & \textbf{  HQIC               } &  539.810    \\
+\textbf{}                        &       - 141      & \textbf{                     } &             \\
+\textbf{Covariance Type:}        &       opg        & \textbf{                     } &             \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lcccccc}
+                & \textbf{coef} & \textbf{std err} & \textbf{z} & \textbf{P$> |$z$|$} & \textbf{[0.025} & \textbf{0.975]}  \\
+\midrule
+\textbf{ar.L1}  &       0.7888  &        0.186     &     4.232  &         0.000        &        0.423    &        1.154     \\
+\textbf{ar.L2}  &      -0.1427  &        0.192     &    -0.745  &         0.456        &       -0.518    &        0.233     \\
+\textbf{ar.L3}  &       0.3527  &        0.062     &     5.730  &         0.000        &        0.232    &        0.473     \\
+\textbf{ma.L1}  &      -0.8338  &        0.177     &    -4.700  &         0.000        &       -1.182    &       -0.486     \\
+\textbf{ma.L2}  &      -0.1261  &        0.175     &    -0.721  &         0.471        &       -0.469    &        0.217     \\
+\textbf{sigma2} &       2.3675  &        0.200     &    11.811  &         0.000        &        1.975    &        2.760     \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lclc}
+\textbf{Ljung-Box (L1) (Q):}     &  0.02 & \textbf{  Jarque-Bera (JB):  } & 214.32  \\
+\textbf{Prob(Q):}                &  0.88 & \textbf{  Prob(JB):          } &  0.00   \\
+\textbf{Heteroskedasticity (H):} & 16.90 & \textbf{  Skew:              } &  1.30   \\
+\textbf{Prob(H) (two-sided):}    &  0.00 & \textbf{  Kurtosis:          } &  8.48   \\
+\bottomrule
+\end{tabular}
+%\caption{SARIMAX Results}
+\end{center}
+
+Warnings: \newline
+ [1] Covariance matrix calculated using the outer product of gradients (complex-step).%
+\subsection*{Región V}%
+\begin{center}
+\begin{tabular}{lclc}
+\toprule
+\textbf{Dep. Variable:}          &     Región V     & \textbf{  No. Observations:  } &    141      \\
+\textbf{Model:}                  &  ARIMA(1, 1, 1)  & \textbf{  Log Likelihood     } &  -148.042   \\
+\textbf{Date:}                   & Wed, 22 Nov 2023 & \textbf{  AIC                } &  302.083    \\
+\textbf{Time:}                   &     11:46:52     & \textbf{  BIC                } &  310.908    \\
+\textbf{Sample:}                 &        0         & \textbf{  HQIC               } &  305.669    \\
+\textbf{}                        &       - 141      & \textbf{                     } &             \\
+\textbf{Covariance Type:}        &       opg        & \textbf{                     } &             \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lcccccc}
+                & \textbf{coef} & \textbf{std err} & \textbf{z} & \textbf{P$> |$z$|$} & \textbf{[0.025} & \textbf{0.975]}  \\
+\midrule
+\textbf{ar.L1}  &       0.9984  &        0.005     &   201.347  &         0.000        &        0.989    &        1.008     \\
+\textbf{ma.L1}  &      -0.9637  &        0.041     &   -23.378  &         0.000        &       -1.045    &       -0.883     \\
+\textbf{sigma2} &       0.4789  &        0.035     &    13.650  &         0.000        &        0.410    &        0.548     \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lclc}
+\textbf{Ljung-Box (L1) (Q):}     & 0.96 & \textbf{  Jarque-Bera (JB):  } & 92.34  \\
+\textbf{Prob(Q):}                & 0.33 & \textbf{  Prob(JB):          } &  0.00  \\
+\textbf{Heteroskedasticity (H):} & 7.40 & \textbf{  Skew:              } &  0.48  \\
+\textbf{Prob(H) (two-sided):}    & 0.00 & \textbf{  Kurtosis:          } &  6.86  \\
+\bottomrule
+\end{tabular}
+%\caption{SARIMAX Results}
+\end{center}
+
+Warnings: \newline
+ [1] Covariance matrix calculated using the outer product of gradients (complex-step).%
+\subsection*{Región VI}%
+\begin{center}
+\begin{tabular}{lclc}
+\toprule
+\textbf{Dep. Variable:}          &    Región VI     & \textbf{  No. Observations:  } &    141      \\
+\textbf{Model:}                  &  ARIMA(0, 2, 1)  & \textbf{  Log Likelihood     } &  -137.849   \\
+\textbf{Date:}                   & Wed, 22 Nov 2023 & \textbf{  AIC                } &  279.698    \\
+\textbf{Time:}                   &     11:46:52     & \textbf{  BIC                } &  285.567    \\
+\textbf{Sample:}                 &        0         & \textbf{  HQIC               } &  282.083    \\
+\textbf{}                        &       - 141      & \textbf{                     } &             \\
+\textbf{Covariance Type:}        &       opg        & \textbf{                     } &             \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lcccccc}
+                & \textbf{coef} & \textbf{std err} & \textbf{z} & \textbf{P$> |$z$|$} & \textbf{[0.025} & \textbf{0.975]}  \\
+\midrule
+\textbf{ma.L1}  &      -0.9335  &        0.029     &   -32.656  &         0.000        &       -0.990    &       -0.877     \\
+\textbf{sigma2} &       0.4193  &        0.035     &    11.926  &         0.000        &        0.350    &        0.488     \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lclc}
+\textbf{Ljung-Box (L1) (Q):}     & 0.95 & \textbf{  Jarque-Bera (JB):  } & 36.47  \\
+\textbf{Prob(Q):}                & 0.33 & \textbf{  Prob(JB):          } &  0.00  \\
+\textbf{Heteroskedasticity (H):} & 6.78 & \textbf{  Skew:              } &  0.74  \\
+\textbf{Prob(H) (two-sided):}    & 0.00 & \textbf{  Kurtosis:          } &  5.02  \\
+\bottomrule
+\end{tabular}
+%\caption{SARIMAX Results}
+\end{center}
+
+Warnings: \newline
+ [1] Covariance matrix calculated using the outer product of gradients (complex-step).%
+\subsection*{Región VII}%
+\begin{center}
+\begin{tabular}{lclc}
+\toprule
+\textbf{Dep. Variable:}          &    Región VII    & \textbf{  No. Observations:  } &    141      \\
+\textbf{Model:}                  &  ARIMA(0, 2, 3)  & \textbf{  Log Likelihood     } &  -276.724   \\
+\textbf{Date:}                   & Wed, 22 Nov 2023 & \textbf{  AIC                } &  561.449    \\
+\textbf{Time:}                   &     11:46:52     & \textbf{  BIC                } &  573.187    \\
+\textbf{Sample:}                 &        0         & \textbf{  HQIC               } &  566.219    \\
+\textbf{}                        &       - 141      & \textbf{                     } &             \\
+\textbf{Covariance Type:}        &       opg        & \textbf{                     } &             \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lcccccc}
+                & \textbf{coef} & \textbf{std err} & \textbf{z} & \textbf{P$> |$z$|$} & \textbf{[0.025} & \textbf{0.975]}  \\
+\midrule
+\textbf{ma.L1}  &      -0.7475  &        0.053     &   -14.173  &         0.000        &       -0.851    &       -0.644     \\
+\textbf{ma.L2}  &      -0.6334  &        0.061     &   -10.370  &         0.000        &       -0.753    &       -0.514     \\
+\textbf{ma.L3}  &       0.4112  &        0.056     &     7.281  &         0.000        &        0.300    &        0.522     \\
+\textbf{sigma2} &       3.0592  &        0.251     &    12.188  &         0.000        &        2.567    &        3.551     \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lclc}
+\textbf{Ljung-Box (L1) (Q):}     &  0.35 & \textbf{  Jarque-Bera (JB):  } & 39.45  \\
+\textbf{Prob(Q):}                &  0.55 & \textbf{  Prob(JB):          } &  0.00  \\
+\textbf{Heteroskedasticity (H):} & 20.73 & \textbf{  Skew:              } &  0.38  \\
+\textbf{Prob(H) (two-sided):}    &  0.00 & \textbf{  Kurtosis:          } &  5.49  \\
+\bottomrule
+\end{tabular}
+%\caption{SARIMAX Results}
+\end{center}
+
+Warnings: \newline
+ [1] Covariance matrix calculated using the outer product of gradients (complex-step).%
+\subsection*{Región VIII}%
+\begin{center}
+\begin{tabular}{lclc}
+\toprule
+\textbf{Dep. Variable:}          &   Región VIII    & \textbf{  No. Observations:  } &    141      \\
+\textbf{Model:}                  &  ARIMA(2, 1, 0)  & \textbf{  Log Likelihood     } &  -196.460   \\
+\textbf{Date:}                   & Wed, 22 Nov 2023 & \textbf{  AIC                } &  398.919    \\
+\textbf{Time:}                   &     11:46:53     & \textbf{  BIC                } &  407.744    \\
+\textbf{Sample:}                 &        0         & \textbf{  HQIC               } &  402.506    \\
+\textbf{}                        &       - 141      & \textbf{                     } &             \\
+\textbf{Covariance Type:}        &       opg        & \textbf{                     } &             \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lcccccc}
+                & \textbf{coef} & \textbf{std err} & \textbf{z} & \textbf{P$> |$z$|$} & \textbf{[0.025} & \textbf{0.975]}  \\
+\midrule
+\textbf{ar.L1}  &       0.3612  &        0.057     &     6.293  &         0.000        &        0.249    &        0.474     \\
+\textbf{ar.L2}  &      -0.0747  &        0.070     &    -1.070  &         0.285        &       -0.211    &        0.062     \\
+\textbf{sigma2} &       0.9683  &        0.088     &    11.004  &         0.000        &        0.796    &        1.141     \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lclc}
+\textbf{Ljung-Box (L1) (Q):}     & 2.16 & \textbf{  Jarque-Bera (JB):  } & 34.82  \\
+\textbf{Prob(Q):}                & 0.14 & \textbf{  Prob(JB):          } &  0.00  \\
+\textbf{Heteroskedasticity (H):} & 6.20 & \textbf{  Skew:              } & -0.14  \\
+\textbf{Prob(H) (two-sided):}    & 0.00 & \textbf{  Kurtosis:          } &  5.43  \\
+\bottomrule
+\end{tabular}
+%\caption{SARIMAX Results}
+\end{center}
+
+Warnings: \newline
+ [1] Covariance matrix calculated using the outer product of gradients (complex-step).
+
+%
+\end{document}
